@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "809830614757",
+    "project_id": "propermessageapp",
+    "storage_bucket": "propermessageapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:809830614757:android:63232cea9a4ccbff6af60c",
+        "android_client_info": {
+          "package_name": "com.example.media"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "809830614757-cg66annn085bfuo8u8uv7ro27ro6a518.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwwTGB0vpN4Y47Gfj0FS1hKJuwfVzmztU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "809830614757-cg66annn085bfuo8u8uv7ro27ro6a518.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
